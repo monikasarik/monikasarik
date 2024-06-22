@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monikasarik&label=Profile%20views&color=0e75b6&style=flat" alt="monikasarik" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Spring, Spring Boot**
+- 🌱 I’m currently learning to become**Full stack developer**
 
-- Linkdin - [Linkdin](https://www.linkedin.com/in/monika-deokar-605832249/)
+- Linkdin Profile - [Linkdin](https://www.linkedin.com/in/monika-deokar-605832249/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/monikasarik](https://github.com/monikasarik)
 
